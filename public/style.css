@@ -12,3 +12,11 @@ body {
   height: 100vh;
   width: 100vw;
 }
+
+.marker {
+  display: block;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+}
