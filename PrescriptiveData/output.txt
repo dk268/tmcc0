@@ -1,0 +1,523 @@
+Ready to dispatch elevator The Great Glass Elevator at time 0!
+Ready to dispatch elevator Argo at time 0!
+Ready to dispatch elevator Tortoise at time 0!
+Ready to dispatch elevator Karnack at time 0!
+Ready to dispatch elevator Pyrrhus at time 0!
+Ready to dispatch elevator Philadelphia at time 0!
+Ready to dispatch elevator SSE Manhattan at time 0!
+Ready to dispatch elevator STS Minotuar at time 0!
+Ready to dispatch elevator BC Viper at time 0!
+Ready to dispatch elevator STS Minotuar at time 76!
+Ready to dispatch elevator Philadelphia at time 85!
+Ready to dispatch elevator Karnack at time 88!
+Ready to dispatch elevator The Great Glass Elevator at time 91!
+Ready to dispatch elevator Pyrrhus at time 100!
+Ready to dispatch elevator Tortoise at time 106!
+Ready to dispatch elevator BC Viper at time 106!
+Ready to dispatch elevator SSE Manhattan at time 109!
+Ready to dispatch elevator Argo at time 112!
+Ready to dispatch elevator STS Minotuar at time 170!
+Ready to dispatch elevator The Great Glass Elevator at time 173!
+Ready to dispatch elevator Philadelphia at time 185!
+Ready to dispatch elevator Karnack at time 188!
+Ready to dispatch elevator BC Viper at time 197!
+Ready to dispatch elevator Tortoise at time 209!
+Ready to dispatch elevator Pyrrhus at time 209!
+Ready to dispatch elevator SSE Manhattan at time 218!
+Ready to dispatch elevator Argo at time 224!
+Ready to dispatch elevator SSE Manhattan at time 255!
+Ready to dispatch elevator STS Minotuar at time 258!
+Ready to dispatch elevator Karnack at time 279!
+Ready to dispatch elevator The Great Glass Elevator at time 285!
+Ready to dispatch elevator BC Viper at time 294!
+Ready to dispatch elevator Philadelphia at time 297!
+Ready to dispatch elevator Argo at time 312!
+Ready to dispatch elevator Tortoise at time 318!
+Ready to dispatch elevator Pyrrhus at time 321!
+Ready to dispatch elevator SSE Manhattan at time 334!
+Ready to dispatch elevator STS Minotuar at time 352!
+Ready to dispatch elevator The Great Glass Elevator at time 355!
+Ready to dispatch elevator Karnack at time 355!
+Ready to dispatch elevator BC Viper at time 394!
+Ready to dispatch elevator Tortoise at time 403!
+Ready to dispatch elevator Philadelphia at time 403!
+Ready to dispatch elevator Argo at time 424!
+Ready to dispatch elevator Pyrrhus at time 433!
+Ready to dispatch elevator SSE Manhattan at time 446!
+Ready to dispatch elevator Karnack at time 458!
+Ready to dispatch elevator The Great Glass Elevator at time 461!
+Ready to dispatch elevator STS Minotuar at time 464!
+Ready to dispatch elevator BC Viper at time 491!
+Ready to dispatch elevator Tortoise at time 500!
+Ready to dispatch elevator Philadelphia at time 500!
+Ready to dispatch elevator Karnack at time 516!
+Ready to dispatch elevator Argo at time 521!
+Ready to dispatch elevator The Great Glass Elevator at time 522!
+Ready to dispatch elevator Pyrrhus at time 533!
+Ready to dispatch elevator SSE Manhattan at time 558!
+Ready to dispatch elevator STS Minotuar at time 564!
+Ready to dispatch elevator Philadelphia at time 600!
+Ready to dispatch elevator BC Viper at time 600!
+Ready to dispatch elevator Tortoise at time 612!
+Ready to dispatch elevator Karnack at time 625!
+Ready to dispatch elevator Argo at time 627!
+Ready to dispatch elevator Pyrrhus at time 630!
+Ready to dispatch elevator The Great Glass Elevator at time 631!
+Ready to dispatch elevator SSE Manhattan at time 631!
+Ready to dispatch elevator STS Minotuar at time 676!
+Ready to dispatch elevator Philadelphia at time 685!
+Ready to dispatch elevator The Great Glass Elevator at time 698!
+Ready to dispatch elevator BC Viper at time 709!
+Ready to dispatch elevator Tortoise at time 712!
+Ready to dispatch elevator Pyrrhus at time 715!
+Ready to dispatch elevator SSE Manhattan at time 731!
+Ready to dispatch elevator Karnack at time 737!
+Ready to dispatch elevator Argo at time 739!
+Ready to dispatch elevator STS Minotuar at time 758!
+Ready to dispatch elevator BC Viper at time 788!
+Ready to dispatch elevator Philadelphia at time 791!
+Ready to dispatch elevator The Great Glass Elevator at time 804!
+Ready to dispatch elevator Pyrrhus at time 815!
+Ready to dispatch elevator Tortoise at time 821!
+Ready to dispatch elevator SSE Manhattan at time 828!
+Ready to dispatch elevator Argo at time 842!
+Ready to dispatch elevator Karnack at time 849!
+Ready to dispatch elevator STS Minotuar at time 849!
+Ready to dispatch elevator Philadelphia at time 891!
+Ready to dispatch elevator BC Viper at time 891!
+Ready to dispatch elevator Pyrrhus at time 897!
+Ready to dispatch elevator Tortoise at time 900!
+Ready to dispatch elevator The Great Glass Elevator at time 901!
+Ready to dispatch elevator Karnack at time 907!
+Ready to dispatch elevator SSE Manhattan at time 919!
+Ready to dispatch elevator STS Minotuar at time 922!
+Ready to dispatch elevator Argo at time 942!
+Ready to dispatch elevator Pyrrhus at time 961!
+Ready to dispatch elevator BC Viper at time 988!
+Ready to dispatch elevator Philadelphia at time 994!
+Ready to dispatch elevator The Great Glass Elevator at time 995!
+Ready to dispatch elevator Tortoise at time 1003!
+Ready to dispatch elevator Karnack at time 1013!
+Ready to dispatch elevator SSE Manhattan at time 1025!
+Ready to dispatch elevator STS Minotuar at time 1028!
+Ready to dispatch elevator Argo at time 1030!
+Ready to dispatch elevator Pyrrhus at time 1031!
+Ready to dispatch elevator BC Viper at time 1082!
+Ready to dispatch elevator Karnack at time 1092!
+Ready to dispatch elevator Philadelphia at time 1097!
+Ready to dispatch elevator The Great Glass Elevator at time 1098!
+Ready to dispatch elevator Tortoise at time 1109!
+Ready to dispatch elevator Argo at time 1115!
+Ready to dispatch elevator SSE Manhattan at time 1128!
+Ready to dispatch elevator Pyrrhus at time 1140!
+Ready to dispatch elevator STS Minotuar at time 1140!
+Ready to dispatch elevator The Great Glass Elevator at time 1180!
+Ready to dispatch elevator Argo at time 1182!
+Ready to dispatch elevator BC Viper at time 1188!
+Ready to dispatch elevator Karnack at time 1195!
+Ready to dispatch elevator Philadelphia at time 1197!
+Ready to dispatch elevator Tortoise at time 1212!
+Ready to dispatch elevator SSE Manhattan at time 1228!
+Ready to dispatch elevator STS Minotuar at time 1240!
+Ready to dispatch elevator Pyrrhus at time 1249!
+Ready to dispatch elevator The Great Glass Elevator at time 1271!
+Ready to dispatch elevator Argo at time 1294!
+Ready to dispatch elevator Philadelphia at time 1294!
+Ready to dispatch elevator BC Viper at time 1300!
+Ready to dispatch elevator Karnack at time 1304!
+Ready to dispatch elevator Karnack at time 1305!
+Ready to dispatch elevator Karnack at time 1306!
+Ready to dispatch elevator Karnack at time 1307!
+Ready to dispatch elevator Karnack at time 1308!
+Ready to dispatch elevator Karnack at time 1309!
+Ready to dispatch elevator Karnack at time 1310!
+Ready to dispatch elevator Karnack at time 1311!
+Ready to dispatch elevator Karnack at time 1312!
+Ready to dispatch elevator Karnack at time 1313!
+Ready to dispatch elevator Karnack at time 1314!
+Ready to dispatch elevator Karnack at time 1315!
+Ready to dispatch elevator Karnack at time 1316!
+Ready to dispatch elevator Karnack at time 1317!
+Ready to dispatch elevator Tortoise at time 1318!
+Ready to dispatch elevator Karnack at time 1318!
+Ready to dispatch elevator Tortoise at time 1319!
+Ready to dispatch elevator Karnack at time 1319!
+Ready to dispatch elevator Tortoise at time 1320!
+Ready to dispatch elevator Karnack at time 1320!
+Ready to dispatch elevator Tortoise at time 1321!
+Ready to dispatch elevator Karnack at time 1321!
+Ready to dispatch elevator Tortoise at time 1322!
+Ready to dispatch elevator Karnack at time 1322!
+Ready to dispatch elevator Tortoise at time 1323!
+Ready to dispatch elevator Karnack at time 1323!
+Ready to dispatch elevator Tortoise at time 1324!
+Ready to dispatch elevator Karnack at time 1324!
+Ready to dispatch elevator Tortoise at time 1325!
+Ready to dispatch elevator Karnack at time 1325!
+Ready to dispatch elevator Tortoise at time 1326!
+Ready to dispatch elevator Karnack at time 1326!
+Ready to dispatch elevator Tortoise at time 1327!
+Ready to dispatch elevator Karnack at time 1327!
+Ready to dispatch elevator Tortoise at time 1328!
+Ready to dispatch elevator Karnack at time 1328!
+Ready to dispatch elevator Tortoise at time 1329!
+Ready to dispatch elevator Karnack at time 1329!
+Ready to dispatch elevator Tortoise at time 1330!
+Ready to dispatch elevator Karnack at time 1330!
+Ready to dispatch elevator Tortoise at time 1331!
+Ready to dispatch elevator Karnack at time 1331!
+Ready to dispatch elevator Tortoise at time 1332!
+Ready to dispatch elevator Karnack at time 1332!
+Ready to dispatch elevator Tortoise at time 1333!
+Ready to dispatch elevator Karnack at time 1333!
+Ready to dispatch elevator Tortoise at time 1334!
+Ready to dispatch elevator Karnack at time 1334!
+Ready to dispatch elevator Tortoise at time 1335!
+Ready to dispatch elevator Karnack at time 1335!
+Ready to dispatch elevator Tortoise at time 1336!
+Ready to dispatch elevator Karnack at time 1336!
+Ready to dispatch elevator Tortoise at time 1337!
+Ready to dispatch elevator Karnack at time 1337!
+Ready to dispatch elevator Tortoise at time 1338!
+Ready to dispatch elevator Karnack at time 1338!
+Ready to dispatch elevator Tortoise at time 1339!
+Ready to dispatch elevator Karnack at time 1339!
+Ready to dispatch elevator Tortoise at time 1340!
+Ready to dispatch elevator Karnack at time 1340!
+Ready to dispatch elevator SSE Manhattan at time 1340!
+Ready to dispatch elevator Tortoise at time 1341!
+Ready to dispatch elevator Karnack at time 1341!
+Ready to dispatch elevator SSE Manhattan at time 1341!
+Ready to dispatch elevator Tortoise at time 1342!
+Ready to dispatch elevator Karnack at time 1342!
+Ready to dispatch elevator SSE Manhattan at time 1342!
+Ready to dispatch elevator Tortoise at time 1343!
+Ready to dispatch elevator Karnack at time 1343!
+Ready to dispatch elevator SSE Manhattan at time 1343!
+Ready to dispatch elevator Tortoise at time 1344!
+Ready to dispatch elevator Karnack at time 1344!
+Ready to dispatch elevator SSE Manhattan at time 1344!
+Ready to dispatch elevator Tortoise at time 1345!
+Ready to dispatch elevator Karnack at time 1345!
+Ready to dispatch elevator SSE Manhattan at time 1345!
+Ready to dispatch elevator Tortoise at time 1346!
+Ready to dispatch elevator Karnack at time 1346!
+Ready to dispatch elevator SSE Manhattan at time 1346!
+Ready to dispatch elevator STS Minotuar at time 1346!
+Ready to dispatch elevator Tortoise at time 1347!
+Ready to dispatch elevator Karnack at time 1347!
+Ready to dispatch elevator SSE Manhattan at time 1347!
+Ready to dispatch elevator STS Minotuar at time 1347!
+Ready to dispatch elevator Tortoise at time 1348!
+Ready to dispatch elevator Karnack at time 1348!
+Ready to dispatch elevator SSE Manhattan at time 1348!
+Ready to dispatch elevator STS Minotuar at time 1348!
+Ready to dispatch elevator Tortoise at time 1349!
+Ready to dispatch elevator Karnack at time 1349!
+Ready to dispatch elevator SSE Manhattan at time 1349!
+Ready to dispatch elevator STS Minotuar at time 1349!
+Ready to dispatch elevator Tortoise at time 1350!
+Ready to dispatch elevator Karnack at time 1350!
+Ready to dispatch elevator SSE Manhattan at time 1350!
+Ready to dispatch elevator STS Minotuar at time 1350!
+Ready to dispatch elevator Tortoise at time 1351!
+Ready to dispatch elevator Karnack at time 1351!
+Ready to dispatch elevator SSE Manhattan at time 1351!
+Ready to dispatch elevator STS Minotuar at time 1351!
+Ready to dispatch elevator Tortoise at time 1352!
+Ready to dispatch elevator Karnack at time 1352!
+Ready to dispatch elevator SSE Manhattan at time 1352!
+Ready to dispatch elevator STS Minotuar at time 1352!
+Ready to dispatch elevator Tortoise at time 1353!
+Ready to dispatch elevator Karnack at time 1353!
+Ready to dispatch elevator SSE Manhattan at time 1353!
+Ready to dispatch elevator STS Minotuar at time 1353!
+Ready to dispatch elevator Tortoise at time 1354!
+Ready to dispatch elevator Karnack at time 1354!
+Ready to dispatch elevator SSE Manhattan at time 1354!
+Ready to dispatch elevator STS Minotuar at time 1354!
+Ready to dispatch elevator Tortoise at time 1355!
+Ready to dispatch elevator Karnack at time 1355!
+Ready to dispatch elevator SSE Manhattan at time 1355!
+Ready to dispatch elevator STS Minotuar at time 1355!
+Ready to dispatch elevator The Great Glass Elevator at time 1356!
+Ready to dispatch elevator Tortoise at time 1356!
+Ready to dispatch elevator Karnack at time 1356!
+Ready to dispatch elevator SSE Manhattan at time 1356!
+Ready to dispatch elevator STS Minotuar at time 1356!
+Ready to dispatch elevator The Great Glass Elevator at time 1357!
+Ready to dispatch elevator Tortoise at time 1357!
+Ready to dispatch elevator Karnack at time 1357!
+Ready to dispatch elevator SSE Manhattan at time 1357!
+Ready to dispatch elevator STS Minotuar at time 1357!
+Ready to dispatch elevator The Great Glass Elevator at time 1358!
+Ready to dispatch elevator Tortoise at time 1358!
+Ready to dispatch elevator Karnack at time 1358!
+Ready to dispatch elevator SSE Manhattan at time 1358!
+Ready to dispatch elevator STS Minotuar at time 1358!
+Ready to dispatch elevator The Great Glass Elevator at time 1359!
+Ready to dispatch elevator Tortoise at time 1359!
+Ready to dispatch elevator Karnack at time 1359!
+Ready to dispatch elevator SSE Manhattan at time 1359!
+Ready to dispatch elevator STS Minotuar at time 1359!
+Ready to dispatch elevator The Great Glass Elevator at time 1360!
+Ready to dispatch elevator Tortoise at time 1360!
+Ready to dispatch elevator Karnack at time 1360!
+Ready to dispatch elevator SSE Manhattan at time 1360!
+Ready to dispatch elevator STS Minotuar at time 1360!
+Ready to dispatch elevator The Great Glass Elevator at time 1361!
+Ready to dispatch elevator Tortoise at time 1361!
+Ready to dispatch elevator Karnack at time 1361!
+Ready to dispatch elevator Pyrrhus at time 1361!
+Ready to dispatch elevator SSE Manhattan at time 1361!
+Ready to dispatch elevator STS Minotuar at time 1361!
+Ready to dispatch elevator The Great Glass Elevator at time 1362!
+Ready to dispatch elevator Tortoise at time 1362!
+Ready to dispatch elevator Karnack at time 1362!
+Ready to dispatch elevator Pyrrhus at time 1362!
+Ready to dispatch elevator SSE Manhattan at time 1362!
+Ready to dispatch elevator STS Minotuar at time 1362!
+Ready to dispatch elevator The Great Glass Elevator at time 1363!
+Ready to dispatch elevator Tortoise at time 1363!
+Ready to dispatch elevator Karnack at time 1363!
+Ready to dispatch elevator Pyrrhus at time 1363!
+Ready to dispatch elevator SSE Manhattan at time 1363!
+Ready to dispatch elevator STS Minotuar at time 1363!
+Ready to dispatch elevator The Great Glass Elevator at time 1364!
+Ready to dispatch elevator Tortoise at time 1364!
+Ready to dispatch elevator Karnack at time 1364!
+Ready to dispatch elevator Pyrrhus at time 1364!
+Ready to dispatch elevator SSE Manhattan at time 1364!
+Ready to dispatch elevator STS Minotuar at time 1364!
+Ready to dispatch elevator BC Viper at time 1364!
+Ready to dispatch elevator The Great Glass Elevator at time 1365!
+Ready to dispatch elevator Tortoise at time 1365!
+Ready to dispatch elevator Karnack at time 1365!
+Ready to dispatch elevator Pyrrhus at time 1365!
+Ready to dispatch elevator SSE Manhattan at time 1365!
+Ready to dispatch elevator STS Minotuar at time 1365!
+Ready to dispatch elevator BC Viper at time 1365!
+Ready to dispatch elevator The Great Glass Elevator at time 1366!
+Ready to dispatch elevator Tortoise at time 1366!
+Ready to dispatch elevator Karnack at time 1366!
+Ready to dispatch elevator Pyrrhus at time 1366!
+Ready to dispatch elevator SSE Manhattan at time 1366!
+Ready to dispatch elevator STS Minotuar at time 1366!
+Ready to dispatch elevator BC Viper at time 1366!
+Ready to dispatch elevator The Great Glass Elevator at time 1367!
+Ready to dispatch elevator Tortoise at time 1367!
+Ready to dispatch elevator Karnack at time 1367!
+Ready to dispatch elevator Pyrrhus at time 1367!
+Ready to dispatch elevator SSE Manhattan at time 1367!
+Ready to dispatch elevator STS Minotuar at time 1367!
+Ready to dispatch elevator BC Viper at time 1367!
+Ready to dispatch elevator The Great Glass Elevator at time 1368!
+Ready to dispatch elevator Tortoise at time 1368!
+Ready to dispatch elevator Karnack at time 1368!
+Ready to dispatch elevator Pyrrhus at time 1368!
+Ready to dispatch elevator SSE Manhattan at time 1368!
+Ready to dispatch elevator STS Minotuar at time 1368!
+Ready to dispatch elevator BC Viper at time 1368!
+Ready to dispatch elevator The Great Glass Elevator at time 1369!
+Ready to dispatch elevator Tortoise at time 1369!
+Ready to dispatch elevator Karnack at time 1369!
+Ready to dispatch elevator Pyrrhus at time 1369!
+Ready to dispatch elevator SSE Manhattan at time 1369!
+Ready to dispatch elevator STS Minotuar at time 1369!
+Ready to dispatch elevator BC Viper at time 1369!
+Ready to dispatch elevator The Great Glass Elevator at time 1370!
+Ready to dispatch elevator Tortoise at time 1370!
+Ready to dispatch elevator Karnack at time 1370!
+Ready to dispatch elevator Pyrrhus at time 1370!
+Ready to dispatch elevator SSE Manhattan at time 1370!
+Ready to dispatch elevator STS Minotuar at time 1370!
+Ready to dispatch elevator BC Viper at time 1370!
+Ready to dispatch elevator The Great Glass Elevator at time 1371!
+Ready to dispatch elevator Tortoise at time 1371!
+Ready to dispatch elevator Karnack at time 1371!
+Ready to dispatch elevator Pyrrhus at time 1371!
+Ready to dispatch elevator SSE Manhattan at time 1371!
+Ready to dispatch elevator STS Minotuar at time 1371!
+Ready to dispatch elevator BC Viper at time 1371!
+Ready to dispatch elevator The Great Glass Elevator at time 1372!
+Ready to dispatch elevator Tortoise at time 1372!
+Ready to dispatch elevator Karnack at time 1372!
+Ready to dispatch elevator Pyrrhus at time 1372!
+Ready to dispatch elevator SSE Manhattan at time 1372!
+Ready to dispatch elevator STS Minotuar at time 1372!
+Ready to dispatch elevator BC Viper at time 1372!
+Ready to dispatch elevator The Great Glass Elevator at time 1373!
+Ready to dispatch elevator Tortoise at time 1373!
+Ready to dispatch elevator Karnack at time 1373!
+Ready to dispatch elevator Pyrrhus at time 1373!
+Ready to dispatch elevator SSE Manhattan at time 1373!
+Ready to dispatch elevator STS Minotuar at time 1373!
+Ready to dispatch elevator BC Viper at time 1373!
+Ready to dispatch elevator The Great Glass Elevator at time 1374!
+Ready to dispatch elevator Tortoise at time 1374!
+Ready to dispatch elevator Karnack at time 1374!
+Ready to dispatch elevator Pyrrhus at time 1374!
+Ready to dispatch elevator SSE Manhattan at time 1374!
+Ready to dispatch elevator STS Minotuar at time 1374!
+Ready to dispatch elevator BC Viper at time 1374!
+Ready to dispatch elevator The Great Glass Elevator at time 1375!
+Ready to dispatch elevator Tortoise at time 1375!
+Ready to dispatch elevator Karnack at time 1375!
+Ready to dispatch elevator Pyrrhus at time 1375!
+Ready to dispatch elevator SSE Manhattan at time 1375!
+Ready to dispatch elevator STS Minotuar at time 1375!
+Ready to dispatch elevator BC Viper at time 1375!
+Ready to dispatch elevator The Great Glass Elevator at time 1376!
+Ready to dispatch elevator Tortoise at time 1376!
+Ready to dispatch elevator Karnack at time 1376!
+Ready to dispatch elevator Pyrrhus at time 1376!
+Ready to dispatch elevator SSE Manhattan at time 1376!
+Ready to dispatch elevator STS Minotuar at time 1376!
+Ready to dispatch elevator BC Viper at time 1376!
+Ready to dispatch elevator The Great Glass Elevator at time 1377!
+Ready to dispatch elevator Tortoise at time 1377!
+Ready to dispatch elevator Karnack at time 1377!
+Ready to dispatch elevator Pyrrhus at time 1377!
+Ready to dispatch elevator SSE Manhattan at time 1377!
+Ready to dispatch elevator STS Minotuar at time 1377!
+Ready to dispatch elevator BC Viper at time 1377!
+Ready to dispatch elevator The Great Glass Elevator at time 1378!
+Ready to dispatch elevator Tortoise at time 1378!
+Ready to dispatch elevator Karnack at time 1378!
+Ready to dispatch elevator Pyrrhus at time 1378!
+Ready to dispatch elevator SSE Manhattan at time 1378!
+Ready to dispatch elevator STS Minotuar at time 1378!
+Ready to dispatch elevator BC Viper at time 1378!
+Ready to dispatch elevator The Great Glass Elevator at time 1379!
+Ready to dispatch elevator Tortoise at time 1379!
+Ready to dispatch elevator Karnack at time 1379!
+Ready to dispatch elevator Pyrrhus at time 1379!
+Ready to dispatch elevator SSE Manhattan at time 1379!
+Ready to dispatch elevator STS Minotuar at time 1379!
+Ready to dispatch elevator BC Viper at time 1379!
+Ready to dispatch elevator The Great Glass Elevator at time 1380!
+Ready to dispatch elevator Tortoise at time 1380!
+Ready to dispatch elevator Karnack at time 1380!
+Ready to dispatch elevator Pyrrhus at time 1380!
+Ready to dispatch elevator SSE Manhattan at time 1380!
+Ready to dispatch elevator STS Minotuar at time 1380!
+Ready to dispatch elevator BC Viper at time 1380!
+Ready to dispatch elevator The Great Glass Elevator at time 1381!
+Ready to dispatch elevator Tortoise at time 1381!
+Ready to dispatch elevator Karnack at time 1381!
+Ready to dispatch elevator Pyrrhus at time 1381!
+Ready to dispatch elevator SSE Manhattan at time 1381!
+Ready to dispatch elevator STS Minotuar at time 1381!
+Ready to dispatch elevator BC Viper at time 1381!
+Ready to dispatch elevator The Great Glass Elevator at time 1382!
+Ready to dispatch elevator Tortoise at time 1382!
+Ready to dispatch elevator Karnack at time 1382!
+Ready to dispatch elevator Pyrrhus at time 1382!
+Ready to dispatch elevator SSE Manhattan at time 1382!
+Ready to dispatch elevator STS Minotuar at time 1382!
+Ready to dispatch elevator BC Viper at time 1382!
+Ready to dispatch elevator The Great Glass Elevator at time 1383!
+Ready to dispatch elevator Tortoise at time 1383!
+Ready to dispatch elevator Karnack at time 1383!
+Ready to dispatch elevator Pyrrhus at time 1383!
+Ready to dispatch elevator SSE Manhattan at time 1383!
+Ready to dispatch elevator STS Minotuar at time 1383!
+Ready to dispatch elevator BC Viper at time 1383!
+Ready to dispatch elevator The Great Glass Elevator at time 1384!
+Ready to dispatch elevator Tortoise at time 1384!
+Ready to dispatch elevator Karnack at time 1384!
+Ready to dispatch elevator Pyrrhus at time 1384!
+Ready to dispatch elevator SSE Manhattan at time 1384!
+Ready to dispatch elevator STS Minotuar at time 1384!
+Ready to dispatch elevator BC Viper at time 1384!
+Ready to dispatch elevator The Great Glass Elevator at time 1385!
+Ready to dispatch elevator Tortoise at time 1385!
+Ready to dispatch elevator Karnack at time 1385!
+Ready to dispatch elevator Pyrrhus at time 1385!
+Ready to dispatch elevator SSE Manhattan at time 1385!
+Ready to dispatch elevator STS Minotuar at time 1385!
+Ready to dispatch elevator BC Viper at time 1385!
+Ready to dispatch elevator The Great Glass Elevator at time 1386!
+Ready to dispatch elevator Tortoise at time 1386!
+Ready to dispatch elevator Karnack at time 1386!
+Ready to dispatch elevator Pyrrhus at time 1386!
+Ready to dispatch elevator SSE Manhattan at time 1386!
+Ready to dispatch elevator STS Minotuar at time 1386!
+Ready to dispatch elevator BC Viper at time 1386!
+Ready to dispatch elevator The Great Glass Elevator at time 1387!
+Ready to dispatch elevator Tortoise at time 1387!
+Ready to dispatch elevator Karnack at time 1387!
+Ready to dispatch elevator Pyrrhus at time 1387!
+Ready to dispatch elevator SSE Manhattan at time 1387!
+Ready to dispatch elevator STS Minotuar at time 1387!
+Ready to dispatch elevator BC Viper at time 1387!
+Ready to dispatch elevator The Great Glass Elevator at time 1388!
+Ready to dispatch elevator Tortoise at time 1388!
+Ready to dispatch elevator Karnack at time 1388!
+Ready to dispatch elevator Pyrrhus at time 1388!
+Ready to dispatch elevator SSE Manhattan at time 1388!
+Ready to dispatch elevator STS Minotuar at time 1388!
+Ready to dispatch elevator BC Viper at time 1388!
+Ready to dispatch elevator The Great Glass Elevator at time 1389!
+Ready to dispatch elevator Tortoise at time 1389!
+Ready to dispatch elevator Karnack at time 1389!
+Ready to dispatch elevator Pyrrhus at time 1389!
+Ready to dispatch elevator SSE Manhattan at time 1389!
+Ready to dispatch elevator STS Minotuar at time 1389!
+Ready to dispatch elevator BC Viper at time 1389!
+Ready to dispatch elevator The Great Glass Elevator at time 1390!
+Ready to dispatch elevator Tortoise at time 1390!
+Ready to dispatch elevator Karnack at time 1390!
+Ready to dispatch elevator Pyrrhus at time 1390!
+Ready to dispatch elevator SSE Manhattan at time 1390!
+Ready to dispatch elevator STS Minotuar at time 1390!
+Ready to dispatch elevator BC Viper at time 1390!
+Ready to dispatch elevator The Great Glass Elevator at time 1391!
+Ready to dispatch elevator Argo at time 1391!
+Ready to dispatch elevator Tortoise at time 1391!
+Ready to dispatch elevator Karnack at time 1391!
+Ready to dispatch elevator Pyrrhus at time 1391!
+Ready to dispatch elevator SSE Manhattan at time 1391!
+Ready to dispatch elevator STS Minotuar at time 1391!
+Ready to dispatch elevator BC Viper at time 1391!
+Ready to dispatch elevator The Great Glass Elevator at time 1392!
+Ready to dispatch elevator Argo at time 1392!
+Ready to dispatch elevator Tortoise at time 1392!
+Ready to dispatch elevator Karnack at time 1392!
+Ready to dispatch elevator Pyrrhus at time 1392!
+Ready to dispatch elevator SSE Manhattan at time 1392!
+Ready to dispatch elevator STS Minotuar at time 1392!
+Ready to dispatch elevator BC Viper at time 1392!
+Ready to dispatch elevator The Great Glass Elevator at time 1393!
+Ready to dispatch elevator Argo at time 1393!
+Ready to dispatch elevator Tortoise at time 1393!
+Ready to dispatch elevator Karnack at time 1393!
+Ready to dispatch elevator Pyrrhus at time 1393!
+Ready to dispatch elevator SSE Manhattan at time 1393!
+Ready to dispatch elevator STS Minotuar at time 1393!
+Ready to dispatch elevator BC Viper at time 1393!
+Ready to dispatch elevator The Great Glass Elevator at time 1394!
+Ready to dispatch elevator Argo at time 1394!
+Ready to dispatch elevator Tortoise at time 1394!
+Ready to dispatch elevator Karnack at time 1394!
+Ready to dispatch elevator Pyrrhus at time 1394!
+Ready to dispatch elevator SSE Manhattan at time 1394!
+Ready to dispatch elevator STS Minotuar at time 1394!
+Ready to dispatch elevator BC Viper at time 1394!
+Ready to dispatch elevator The Great Glass Elevator at time 1395!
+Ready to dispatch elevator Argo at time 1395!
+Ready to dispatch elevator Tortoise at time 1395!
+Ready to dispatch elevator Karnack at time 1395!
+Ready to dispatch elevator Pyrrhus at time 1395!
+Ready to dispatch elevator SSE Manhattan at time 1395!
+Ready to dispatch elevator STS Minotuar at time 1395!
+Ready to dispatch elevator BC Viper at time 1395!
+Ready to dispatch elevator The Great Glass Elevator at time 1396!
+Ready to dispatch elevator Argo at time 1396!
+Ready to dispatch elevator Tortoise at time 1396!
+Ready to dispatch elevator Karnack at time 1396!
+Ready to dispatch elevator Pyrrhus at time 1396!
+Ready to dispatch elevator SSE Manhattan at time 1396!
+Ready to dispatch elevator STS Minotuar at time 1396!
+Ready to dispatch elevator BC Viper at time 1396!
+Total time to completion is 1396!
