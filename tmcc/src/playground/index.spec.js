@@ -1,4 +1,4 @@
-/* global describe, it, test */
+/* global describe, test */
 
 const { addOne } = require(".");
 
